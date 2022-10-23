@@ -1,0 +1,6 @@
+projectKey=Smart_Port_City_Client
+serverUrl=http://localhost:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9000/dashboard?id=Smart_Port_City_Client
+ceTaskId=AYP29i5Ueb6Qwf8MWyix
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYP29i5Ueb6Qwf8MWyix
